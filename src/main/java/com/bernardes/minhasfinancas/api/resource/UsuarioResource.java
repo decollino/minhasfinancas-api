@@ -26,7 +26,6 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class UsuarioResource {
 
-//	private UsuarioService service;
 	private final UsuarioService service;
 	private final LancamentoService lancamentoService;
 		
